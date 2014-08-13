@@ -28,8 +28,3 @@ require 'pry-debugger'
 #As a gamemaster
 #I want to choose a word at random
 #So that the game isn't predictable
-
-
-
-
-array_of_word = PICKED_WORD.split(//)
